@@ -1,5 +1,6 @@
 # MyEShoppingWebsite
 Project Purpose:The project's intended use case or purpose. For an E-Shopping Website, this could include features like product listings, shopping cart functionality, user authentication, order processing, etc.
+
 1.Folder Structure: The repository likely contains various directories and files, organizing the project's frontend, backend, configurations, assets, and possibly documentation.
 
 2.Frontend Components: It could include HTML, CSS, and JavaScript files responsible for the website's user interface, layout, styling, and interactivity. These files might be structured based on frameworks or libraries like r plain HTML/CSS/JS.
