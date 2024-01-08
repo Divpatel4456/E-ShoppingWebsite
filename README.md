@@ -6,6 +6,7 @@ Project Purpose:The project's intended use case or purpose. For an E-Shopping We
 2.Frontend Components: It could include HTML, CSS, and JavaScript files responsible for the website's user interface, layout, styling, and interactivity. These files might be structured based on frameworks or libraries like r plain HTML/CSS/JS.
 
 3.Backend Components: Backend files could be structured with server-side logic, APIs, database configurations, and handling of data operations. 
+
 4.Database Integration: There might be scripts or configurations related to database interactions, such as setting up tables, defining schemas, or handling database queries. Common databases used in E-commerce projects include MySQL, PostgreSQL, or others.
 
 5.Frameworks and Libraries: The project might utilize various frameworks or libraries for features like authentication, payment gateways integration, product catalog management, cart functionality, and order processing. These could be included as dependencies or integrated directly into the code.
